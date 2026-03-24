@@ -1,2 +1,6 @@
 # RoboMotor
-A fully open-sourced motor controller program
+
+![cover](./Image/cover.jpg)
+
+A fully open-sourced motor controller project.
+

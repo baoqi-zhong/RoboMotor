@@ -1,0 +1,3 @@
+[submodule "RoboMotor-FOC-Algorithm"]
+	path = RoboMotor-FOC-Algorithm
+	url = https://github.com/baoqi-zhong/RoboMotor-FOC-Algorithm.git
